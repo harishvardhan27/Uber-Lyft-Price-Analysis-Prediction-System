@@ -317,4 +317,3 @@ To take this project from a Data Analysis assignment to an enterprise-level Mach
 *   **Traffic Data Integration:** Standard distance doesn't equal exact duration due to heavy Boston traffic. Adding real-time traffic API data would drastically improve price prediction accuracy.
 
 ---
-*Generated for academic/professional presentation standards.*
